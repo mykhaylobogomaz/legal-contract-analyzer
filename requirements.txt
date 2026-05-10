@@ -1,0 +1,4 @@
+spacy>=3.7.0,<4.0.0
+# The tkinter module ships with Python's standard library and requires no pip install.
+# After installing spacy, download a language model with:
+#   python -m spacy download en_core_web_sm
